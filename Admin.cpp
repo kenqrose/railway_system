@@ -1,4 +1,5 @@
 #include "Class_Admin.h"
+//just a test
 
 Admin::Admin(string& acc, string& passwd, sql_ptr& p):account(acc),password(passwd)
 {
